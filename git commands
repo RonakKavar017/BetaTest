@@ -1,0 +1,11 @@
+Here are some commands
+•	Use Git init to create Repository
+•	Change directory Using cd
+•	Git status
+•	git add . (For Staging File)
+•	git commit -m “commitname”
+•	git config –global user.name “Yourname”
+•	git config –global user.email “Youremail”
+•	git remote add origin <link here>
+•	git log 	//For logs
+•	git push origin <Branch name>	//Usually master
